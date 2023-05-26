@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		71EF36982A20664C00E88089 /* Detail View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71EF36972A20664C00E88089 /* Detail View.swift */; };
+		71EF369A2A20680600E88089 /* New View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71EF36992A20680600E88089 /* New View.swift */; };
 		AB775B1F2A206210001A065F /* gersondiniApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB775B1E2A206210001A065F /* gersondiniApp.swift */; };
 		AB775B212A206210001A065F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB775B202A206210001A065F /* ContentView.swift */; };
 		AB775B232A206211001A065F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB775B222A206211001A065F /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 
 /* Begin PBXFileReference section */
 		71EF36972A20664C00E88089 /* Detail View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Detail View.swift"; sourceTree = "<group>"; };
+		71EF36992A20680600E88089 /* New View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "New View.swift"; sourceTree = "<group>"; };
 		AB775B1B2A206210001A065F /* gersondini.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gersondini.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AB775B1E2A206210001A065F /* gersondiniApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gersondiniApp.swift; sourceTree = "<group>"; };
 		AB775B202A206210001A065F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 				AB775B202A206210001A065F /* ContentView.swift */,
 				AB775B222A206211001A065F /* Assets.xcassets */,
 				71EF36972A20664C00E88089 /* Detail View.swift */,
+				71EF36992A20680600E88089 /* New View.swift */,
 			);
 			path = gersondini;
 			sourceTree = "<group>";
@@ -130,6 +133,7 @@
 			files = (
 				71EF36982A20664C00E88089 /* Detail View.swift in Sources */,
 				AB775B212A206210001A065F /* ContentView.swift in Sources */,
+				71EF369A2A20680600E88089 /* New View.swift in Sources */,
 				AB775B1F2A206210001A065F /* gersondiniApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

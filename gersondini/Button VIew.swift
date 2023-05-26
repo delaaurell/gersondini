@@ -1,5 +1,5 @@
 //
-//  New View.swift
+//  Button VIew.swift
 //  gersondini
 //
 //  Created by Yona on 26/05/23.
@@ -7,15 +7,15 @@
 
 import SwiftUI
 
-struct New_View: View {
+struct Button_VIew: View {
     var body: some View {
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
 }
 
-struct New_View_Previews: PreviewProvider {
+struct Button_VIew_Previews: PreviewProvider {
     static var previews: some View {
-        New_View()
+        Button_VIew()
     }
 }
 

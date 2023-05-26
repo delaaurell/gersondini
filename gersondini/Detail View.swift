@@ -48,7 +48,7 @@ struct DetailView: View {
                 .padding(.horizontal, 40)
             Rectangle()
                 .frame(height: 20)
-                .padding(.horizontal, 40)
+                .padding(.horizontal, 40) //nknknknknkngggvgvgvcfvv
             Rectangle()
                 .frame(height: 20)
                 .padding(.horizontal, 40)
